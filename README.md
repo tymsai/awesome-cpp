@@ -1201,7 +1201,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources & shiny th
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 # Contributing
-Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
+Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) For details.
 Thanks to all [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
